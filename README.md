@@ -4,7 +4,7 @@ This repo contains a classic "Hello World!" program written in [Brainfuck](https
 
 You can test it online here: [https://copy.sh/brainfuck/](https://copy.sh/brainfuck/)
 
-Paste the code, hit run, and be amazed as it prints:
+Paste the code, hit run, and be amazed as it prints out.
 
 Why?
 
